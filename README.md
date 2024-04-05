@@ -10,6 +10,12 @@ To view this project, download the Notebook file and import it into DataBricks w
 ### Kanban board
 I used [Kanban Tool](https://kanbantool.com/free-kanban-board) to create a kanban board where I detailed the user stories for this project along with some acceptance criteria.
 
+
+Here is what the completed kanban board looks like:
+
+
+![kanban board](kanban_board.png)
+
 #### User Stories
 - As an Indian takeaway owner, I want to be able to see what are the most popular orders so that I can cater to those requests
   - Acceptance Criteria: GIVEN I am on the Databricks Notebook, WHEN I scroll through it, THEN I should easily be able to find what the most popular orders are and how many of those orders were made between 2015 and 2019
